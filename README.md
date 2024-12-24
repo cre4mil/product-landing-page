@@ -17,3 +17,8 @@
 - git commit -m "เพิ่มส่วนแสดงคุณสมบัติพร้อมการ์ด"
 - git add index.html
 - git commit -m "เพิ่มส่วนท้ายแบบ Responsive" 
+- git add .
+- git commit -m "add comparison file"
+- git add README.md
+- git commit -m "update README.md"
+- git push origin main
